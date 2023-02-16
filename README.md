@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Francesco Pasqua aka @cesconix
-- 💼 I'm a Senior Developer @ H-FARM Enabling Solutions
+- 💼 I'm a Senior Developer @ Jakala
 - 👀 I’m interested in Docker, Node.js, TypeScript, React
 - 🌱 I’m currently learning Blockchain, Solidity, Web3
