@@ -3,7 +3,7 @@ This is the place where I share open source stuff and new ideas.
 
 - 🧑‍🎨 &nbsp;I’m currently working on Pinorama 🌀
 - 🌱 &nbsp;I’m currently learning Neovim and Lua
-- 💬 &nbsp;Happy to help with Node.js, JavaScript, Fastify, React, Docker, or Linux.
-- 🖥 &nbsp;I love customizing terminal setups and improving developer workflows.
+- 💬 &nbsp;Happy to help with Node.js, JavaScript, Fastify, React, Docker, or Linux
+- 🖥 &nbsp;I love customizing terminal setups and improving developer workflows
 - 🎒 &nbsp;Read more about me at [cesco.me](https://www.cesco.me/)
 - 🕹️ &nbsp;I like role-playing games and single-player adventures
